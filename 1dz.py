@@ -1,4 +1,5 @@
 #coding: utf-8
+print('Hello, github')
 import os
 path='test'
 dirs=os.listdir(path)
